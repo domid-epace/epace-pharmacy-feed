@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:epace="https://epace.cz/ns/pharmacy-feed/1.0">
+<channel>
+  <title>ePACE Pharmacy product feed</title>
+  <link>https://team-epace.myshopify.com</link>
+  <description>Hackathon demo feed for ePACE's Bloomreach AI Hackathon 2026 submission. Auto-generated from the team-epace.myshopify.com mock pharmacy catalogue (products tagged "pharmacy") and refreshed daily at 09:00 Europe/Prague by a GitHub Action.</description>
+  <lastBuildDate>Thu, 24 Sep 2026 04:06:17 +0000</lastBuildDate>
+  <item>
+    <g:id>1030696</g:id>
+    <title>JutaVit Omega 3 Kardiovaskulár 1500 mg fish oil capsules, 60 capsules</title>
+    <description>JutaVit Omega 3 Kardiovaskulár is a fish oil food supplement sourced from South Pacific anchovy, providing natural-form (triglyceride) omega-3 fatty acids EPA and DHA. Each capsule contains 1500 mg fish oil with 1200 mg omega-3 fatty acids, including 600 mg EPA and 450 mg DHA. Key ingredients: fish oil with EPA and DHA omega-3 fatty acids Form: capsule Pack size: 60 capsules Recommended use: Adults take 1 to 3 capsules daily for at least 3 months, swallowed with plenty of liquid before or with a meal. EPA and DHA help maintain normal blood pressure and normal heart function, and DHA supports normal brain function and eyesight; EPA and DHA also help maintain normal blood triglyceride levels. Not suitable for children. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/jutavit-omega-3-kardiovaskular-1500-mg-fish-oil-capsules-60-capsules</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1030696-1.webp?v=1790197024</g:image_link>
+    <g:price>15.18 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>JutaVit</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Heart &amp; Circulation</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199849607493</epace:shopify_product_id>
+    <epace:category>heart-circulation</epace:category>
+    <epace:units_per_pack>60</epace:units_per_pack>
+    <epace:form>capsule</epace:form>
+    <epace:stock>64</epace:stock>
+    <epace:tags>Blood pressure, category:heart-circulation, Circulation, Heart, Omega-3, pharmacy</epace:tags>
+  </item>
+  <item>
+    <g:id>1030952</g:id>
+    <title>JutaVit Fish Collagen 5000 mg + Hyaluronic Acid powder, raspberry, 200 g</title>
+    <description>JutaVit Fish Collagen + Hyaluronic Acid is a raspberry-flavoured powder food supplement providing hydrolyzed fish collagen 5000 mg, hyaluronic acid 50 mg, vitamin C, zinc and biotin per serving, supporting skin, joint and connective tissue health. Key ingredients: hydrolyzed fish collagen 5000 mg, hyaluronic acid 50 mg, vitamin C 200 mg, zinc 5 mg, biotin 62.5 µg per serving Form: powder Pack size: 200 g (30 servings) Recommended use: Adults dissolve one level scoop (6.667 g) in 250 ml of water and take 1-2 times daily. Vitamin C supports normal collagen formation for normal skin, bone and cartilage function; zinc and biotin support healthy skin and hair. Keep out of reach of young children. Do not exceed the recommended dose. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/jutavit-fish-collagen-5000-mg-hyaluronic-acid-powder-raspberry-200-g</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1030952-1.webp?v=1790197769</g:image_link>
+    <g:price>15.56 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>JutaVit</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Joints &amp; Muscles</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199856718149</epace:shopify_product_id>
+    <epace:category>joints-muscles</epace:category>
+    <epace:units_per_pack>200</epace:units_per_pack>
+    <epace:form>powder</epace:form>
+    <epace:stock>17</epace:stock>
+    <epace:tags>category:joints-muscles, Collagen, Connective tissue, Hyaluronic acid, Joint support, pharmacy, Skin health</epace:tags>
+  </item>
+  <item>
+    <g:id>1116668</g:id>
+    <title>Theraflu Cold &amp; Flu hot drink (paracetamol 325 mg + phenylephrine + pheniramine + vitamin C), 14 sachets</title>
+    <description>Theraflu Cold &amp; Flu is a hot lemon-flavoured drink combining four active substances: paracetamol 325 mg to relieve pain and reduce fever, pheniramine 20 mg , an antihistamine that calms sneezing and a runny nose, phenylephrine 10 mg , a decongestant that clears a blocked nose and sinuses, and vitamin C 50 mg . It is intended for flu and cold symptoms that include nasal congestion. Active substance: paracetamol 325 mg + pheniramine 20 mg + phenylephrine 10 mg + vitamin C 50 mg Form: powder for oral solution Pack size: 14 sachets How to use: Adults and adolescents from 12 years: dissolve 1 sachet in a cup (about 250 ml) of hot, not boiling, water and drink while still warm. Repeat every 4-6 hours; maximum 3-4 sachets in 24 hours. Do not use for more than 5 days. Warnings: Not for children under 12, pregnancy or breastfeeding, or patients with high blood pressure or heart disease. Do not combine with alcohol or other paracetamol-containing medicines. Read the patient information leaflet before use.</description>
+    <link>https://team-epace.myshopify.com/products/theraflu-cold-flu-hot-drink-paracetamol-325-mg-phenylephrine-pheniramine-vitamin</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1116668-1.webp?v=1790196606</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1116668-2.webp?v=1790196606</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1116668-3.webp?v=1790196606</g:additional_image_link>
+    <g:price>12.45 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Theraflu</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Cold &amp; Flu</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199843250501</epace:shopify_product_id>
+    <epace:category>cold-flu</epace:category>
+    <epace:units_per_pack>14</epace:units_per_pack>
+    <epace:form>powder for oral solution</epace:form>
+    <epace:pil_url>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/PIL-1116668-theraflu-cold-flu-hot-drink-paracetamol.pdf?v=1790199602</epace:pil_url>
+    <epace:stock>999</epace:stock>
+    <epace:tags>Blocked nose, category:cold-flu, Cold, Fever, Flu, has-pil, pharmacy, Sneezing</epace:tags>
+  </item>
+  <item>
+    <g:id>1467234</g:id>
+    <title>Elasti-Q Folic Acid 800 mcg + B6 tablets, 180 tablets</title>
+    <description>Elasti-Q Folic Acid tablets combine folic acid with vitamin B6 (pyridoxine), recommended for three months before a planned pregnancy to help prevent birth defects, during pregnancy including for morning sickness, and after birth while breastfeeding. Folic acid supports cell division and differentiation and normal blood formation and growth of foetal tissue during pregnancy, while vitamin B6 contributes to normal red blood cell and haemoglobin formation and helps support immune function. Key ingredients: folic acid 800 mcg (400% RDA) and vitamin B6 4 mg (286% RDA) per 2 tablets, strawberry flavour Form: tablet Pack size: 180 tablets Recommended use: adults take 2 tablets daily; children from 14 years take 1 tablet daily after a meal. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/elasti-q-folic-acid-800-mcg-b6-tablets-180-tablets</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1467234-1.webp?v=1790197108</g:image_link>
+    <g:price>13.12 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Elasti-Q</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Vitamins &amp; Minerals</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199850754373</epace:shopify_product_id>
+    <epace:category>vitamins-minerals</epace:category>
+    <epace:units_per_pack>180</epace:units_per_pack>
+    <epace:form>tablet</epace:form>
+    <epace:stock>3</epace:stock>
+    <epace:tags>category:vitamins-minerals, Folic Acid, pharmacy, Pregnancy, Vitamin B6</epace:tags>
+  </item>
+  <item>
+    <g:id>1709250</g:id>
+    <title>Solgar Magnesium 400 mg + Vitamin B6 25 mg tablets, 100 tablets</title>
+    <description>Solgar Magnesium + Vitamin B6 is a vegan food supplement providing magnesium oxide 400 mg and vitamin B6 25 mg per daily dose, supporting normal muscle function, energy metabolism and the nervous system, and helping reduce tiredness and fatigue - useful for people prone to occasional muscle cramps. Key ingredients: magnesium (as magnesium oxide) 400 mg, vitamin B6 (pyridoxine) 25 mg per 3 tablets Form: tablet Pack size: 100 tablets Recommended use: Adults take 3 tablets daily, ideally with food, or as directed by a doctor. Consult a doctor before use if pregnant, breastfeeding, taking medication or with any health condition. Do not exceed the recommended daily dose. Free from gluten, wheat, milk, soy and artificial colours. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/solgar-magnesium-400-mg-vitamin-b6-25-mg-tablets-100-tablets</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1709250-1.webp?v=1790197771</g:image_link>
+    <g:price>12.19 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Solgar</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Joints &amp; Muscles</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199856783685</epace:shopify_product_id>
+    <epace:category>joints-muscles</epace:category>
+    <epace:units_per_pack>100</epace:units_per_pack>
+    <epace:form>tablet</epace:form>
+    <epace:stock>8</epace:stock>
+    <epace:tags>category:joints-muscles, Magnesium, Muscle cramps, Nervous system, pharmacy, Tiredness and fatigue, Vitamin B6</epace:tags>
+  </item>
+  <item>
+    <g:id>1709284</g:id>
+    <title>Solgar Omega-3 Double Strength fish oil softgels, 30 softgels</title>
+    <description>Solgar Omega-3 Double Strength is a fish oil food supplement made from cold-water fish, providing a concentrated dose of the omega-3 fatty acids EPA and DHA. Four softgels supply 1440 mg EPA and 960 mg DHA, twice the strength of standard fish oil supplements. Key ingredients: fish oil concentrate with EPA and DHA omega-3 fatty acids Form: softgel capsule Pack size: 30 softgels Recommended use: Adults take four softgels daily, ideally with a meal or as advised by a doctor. Do not exceed the recommended daily dose. EPA and DHA support normal heart function, and at 2 g/day support normal blood triglyceride levels; DHA also supports normal brain function and eyesight. Free from gluten, wheat, dairy and artificial flavours. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/solgar-omega-3-double-strength-fish-oil-softgels-30-softgels</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1709284-1.webp?v=1790197014</g:image_link>
+    <g:price>17.49 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Solgar</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Heart &amp; Circulation</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199849476421</epace:shopify_product_id>
+    <epace:category>heart-circulation</epace:category>
+    <epace:units_per_pack>30</epace:units_per_pack>
+    <epace:form>softgel</epace:form>
+    <epace:stock>2</epace:stock>
+    <epace:tags>category:heart-circulation, Circulation, Heart, Omega-3, pharmacy, Triglycerides</epace:tags>
+  </item>
+  <item>
+    <g:id>1709293</g:id>
+    <title>Solgar Omega-3 Double Strength fish oil softgels, 60 softgels</title>
+    <description>Solgar Omega-3 Double Strength is a fish oil food supplement made from cold-water fish, providing a concentrated dose of the omega-3 fatty acids EPA and DHA. Four softgels supply 1440 mg EPA and 960 mg DHA, twice the strength of standard fish oil supplements. Key ingredients: fish oil concentrate with EPA and DHA omega-3 fatty acids Form: softgel capsule Pack size: 60 softgels Recommended use: Adults take four softgels daily, ideally with a meal or as advised by a doctor. Do not exceed the recommended daily dose. EPA and DHA support normal heart function, and at 2 g/day support normal blood triglyceride levels; DHA also supports normal brain function and eyesight. Free from gluten, wheat, dairy and artificial flavours. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/solgar-omega-3-double-strength-fish-oil-softgels-60-softgels</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1709293-1.webp?v=1790197020</g:image_link>
+    <g:price>34.43 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Solgar</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Heart &amp; Circulation</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199849574725</epace:shopify_product_id>
+    <epace:category>heart-circulation</epace:category>
+    <epace:units_per_pack>60</epace:units_per_pack>
+    <epace:form>softgel</epace:form>
+    <epace:stock>14</epace:stock>
+    <epace:tags>category:heart-circulation, Circulation, Heart, Omega-3, pharmacy, Triglycerides</epace:tags>
+  </item>
+  <item>
+    <g:id>1709372</g:id>
+    <title>Solgar Iron (Gentle Iron) 20 mg vegetable capsules, 90 capsules</title>
+    <description>Solgar Iron (Gentle Iron) capsules use iron bisglycinate (Ferrochel), a chelated form that is easier on sensitive stomachs than standard iron salts. Iron contributes to normal immune system function, normal energy metabolism and reduced tiredness and fatigue, supports normal formation of red blood cells and haemoglobin and the normal transport of oxygen in the body, and contributes to normal cognitive function. Active substance: iron (as iron bisglycinate, Ferrochel) 20 mg per capsule (143% NRV) Form: vegetable capsule Pack size: 90 capsules Recommended use: adults take 1 capsule daily, ideally with food, or as advised by a doctor. Suitable for vegans; sugar-free. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/solgar-iron-gentle-iron-20-mg-vegetable-capsules-90-capsules</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1709372-1.webp?v=1790197102</g:image_link>
+    <g:price>14.99 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Solgar</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Vitamins &amp; Minerals</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199850623301</epace:shopify_product_id>
+    <epace:category>vitamins-minerals</epace:category>
+    <epace:units_per_pack>90</epace:units_per_pack>
+    <epace:form>vegetable capsule</epace:form>
+    <epace:stock>22</epace:stock>
+    <epace:tags>category:vitamins-minerals, Energy, Iron, pharmacy, Vegan</epace:tags>
+  </item>
+  <item>
+    <g:id>1737983</g:id>
+    <title>Imodium 2 mg hard capsules, 12 capsules</title>
+    <description>Imodium 2 mg contains loperamide, which slows the movement of the gut so more water is reabsorbed from food, making stools firmer and less frequent. It relieves acute diarrhoea in adults and children from age 6, and, under medical advice, chronic diarrhoea. Active substance: loperamide 2 mg Form: hard capsule Pack size: 12 capsules How to use: Adults take 2 capsules to start, then 1 capsule after each loose stool, up to a maximum of 8 capsules a day. Children from 6 years take 1 capsule to start, then 1 after each loose stool, as advised. Swallow with plenty of water. Warnings: Not for use in children under 6, or during pregnancy (especially the first trimester) or breastfeeding. Stop and see a doctor if fever or blood appears in the stool, or if constipation develops. Read the patient information leaflet before use.</description>
+    <link>https://team-epace.myshopify.com/products/imodium-2-mg-hard-capsules-12-capsules</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1737983-1.webp?v=1790197318</g:image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1737983-2.webp?v=1790197318</g:additional_image_link>
+    <g:additional_image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1737983-3.webp?v=1790197318</g:additional_image_link>
+    <g:price>6.51 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Imodium</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Digestive Health</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199852622149</epace:shopify_product_id>
+    <epace:category>digestive-health</epace:category>
+    <epace:units_per_pack>12</epace:units_per_pack>
+    <epace:form>hard capsule</epace:form>
+    <epace:pil_url>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/PIL-1737983-imodium-2-mg-hard-capsules-12-capsules.pdf?v=1790199443</epace:pil_url>
+    <epace:stock>236</epace:stock>
+    <epace:tags>category:digestive-health, Diarrhea, Digestion, has-pil, pharmacy, Travel</epace:tags>
+  </item>
+  <item>
+    <g:id>1787498</g:id>
+    <title>Neurinu Melatogen sleep capsules, 50 capsules</title>
+    <description>Neurinu Melatogen capsules are formulated for people who want to fall asleep quickly, sleep deeply and wake up refreshed, combining melatonin with magnesium, zinc, vitamins B6 and B12, L-tyrosine and extracts of Griffonia, St. John's wort and lemon balm. It is a food supplement, not a medicine, designed to act within minutes so it does not need to be taken every night. Key ingredients: melatonin 1 mg, magnesium 420 mg, zinc 14 mg, vitamin B6 5.4 mg, vitamin B12 7.8 mcg, plus L-tyrosine, Griffonia, St. John's wort and lemon balm extracts per capsule Form: capsule Pack size: 50 capsules Recommended use: take 1 capsule 20 minutes before bed. Do not exceed 1 capsule per day. Not suitable for children, pregnant or breastfeeding women; avoid driving for at least 5 hours after use. Food supplements are not a substitute for a varied diet.</description>
+    <link>https://team-epace.myshopify.com/products/neurinu-melatogen-sleep-capsules-50-capsules</link>
+    <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1787498-1.webp?v=1790197129</g:image_link>
+    <g:price>21.11 EUR</g:price>
+    <g:availability>in_stock</g:availability>
+    <g:brand>Neurinu</g:brand>
+    <g:condition>new</g:condition>
+    <g:product_type>Pharmacy &gt; Sleep &amp; Stress</g:product_type>
+    <g:identifier_exists>no</g:identifier_exists>
+    <epace:shopify_product_id>16199851016517</epace:shopify_product_id>
+    <epace:category>sleep-stress</epace:category>
+    <epace:units_per_pack>50</epace:units_per_pack>
+    <epace:form>capsule</epace:form>
