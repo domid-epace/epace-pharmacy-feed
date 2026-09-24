@@ -4,7 +4,7 @@
   <title>ePACE Pharmacy product feed</title>
   <link>https://team-epace.myshopify.com</link>
   <description>Hackathon demo feed for ePACE's Bloomreach AI Hackathon 2026 submission. Auto-generated from the team-epace.myshopify.com mock pharmacy catalogue (products tagged "pharmacy") and refreshed daily at 09:00 Europe/Prague by a GitHub Action.</description>
-  <lastBuildDate>Thu, 24 Sep 2026 04:06:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 12:40:44 +0000</lastBuildDate>
   <item>
     <g:id>1030696</g:id>
     <title>JutaVit Omega 3 Kardiovaskulár 1500 mg fish oil capsules, 60 capsules</title>
@@ -304,7 +304,7 @@
   <item>
     <g:id>1868871</g:id>
     <title>Oyono Na Noc Melatonin 1 mg 3-phase tablets with valerian &amp; lemon balm, 24 tablets</title>
-    <description>Oyono Na Noc is an innovative 3-phase tablet that gradually releases melatonin, vitamin B6 and plant extracts including hawthorn, valerian root, passionflower and lemon balm over up to 8 hours, to support sleep through the whole night. Melatonin contributes to a reduction in the time taken to fall asleep, while valerian, lemon balm and passionflower are traditional calming herbs. Key ingredients: melatonin 1 mg, vitamin B6 1.4 mg, valerian root extract 100 mg, lemon balm leaf extract 50 mg, hawthorn and passionflower extracts 100 mg each per tablet Form: tablet Pack size: 24 tablets Recommended use: take 1 tablet 30 minutes before bedtime with a little water. Not suitable for pregnant or breastfeeding women, children or adolescents; may impair the ability to drive. Food supplements are not a substitute for a varied diet.</description>
+    <description>Oyono Na Noc is an innovative 3-phase tablet that gradually releases melatonin, vitamin B6 and plant extracts including hawthorn, valerian root, passionflower and lemon balm over up to 8 hours, to support sleep through the whole night. Melatonin contributes to a reduction in the time taken to fall asleep, while valerian, lemon balm and passionflower are traditional calming herbs. Key ingredients: melatonin 1 mg, vitamin B6 1.4 mg, valerian root extract 100 mg, lemon balm leaf extract 50 mg, hawthorn and passionflower extracts 100 mg each per tablet Form: 3-phase release tablet Pack size: 24 tablets Recommended use: take 1 tablet 30 minutes before bedtime with a little water. Not suitable for pregnant or breastfeeding women, children or adolescents; may impair the ability to drive. Food supplements are not a substitute for a varied diet.</description>
     <link>https://team-epace.myshopify.com/products/oyono-na-noc-melatonin-1-mg-3-phase-tablets-with-valerian-lemon-balm-24-tablets</link>
     <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/1868871-1.webp?v=1790197136</g:image_link>
     <g:price>10.74 EUR</g:price>
@@ -1721,7 +1721,8 @@
     <epace:units_per_pack>20</epace:units_per_pack>
     <epace:form>effervescent tablet</epace:form>
     <epace:pil_url>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/PIL-47708-acc-long-600-mg-effervescent-tablets-20.pdf?v=1790199190</epace:pil_url>
-    <epace:stock>999</epace:stock>    <epace:tags>category:cold-flu, Cold, Cough, Flu, has-pil, Mucus, pharmacy</epace:tags>
+    <epace:stock>999</epace:stock>
+    <epace:tags>category:cold-flu, Cold, Cough, Flu, has-pil, Mucus, pharmacy</epace:tags>
   </item>
   <item>
     <g:id>48053</g:id>
