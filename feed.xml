@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:epace="https://epace.cz/ns/pharmacy-feed/1.0">
+  <channel>
+    <title>ePACE Pharmacy - product feed (hackathon demo)</title>
+    <link>https://team-epace.myshopify.com</link>
+    <description>Product feed for the ePACE Pharmacy store, a mock Shopify storefront built for the Bloomreach AI Hackathon 2026. This is a demo catalog, not a real pharmacy.</description>
+    <lastBuildDate>Thu, 24 Sep 2026 02:46:35 +0000</lastBuildDate>
+    <item>
+      <g:id>47408</g:id>
+      <title>Ibuprofen 400 STADA 400 mg film-coated tablets, 20 tablets</title>
+      <description>Ibuprofen 400 STADA contains ibuprofen 400 mg , a non-steroidal anti-inflammatory drug (NSAID). It relieves pain and inflammation, for example in acute and chronic arthritis, gout attacks, or painful swelling after injuries. Active substance: ibuprofen 400 mg Form: film-coated tablet Pack size: 20 tablets How to use: Adults and adolescents from 15 years: 1200–2400 mg (3–6 tablets) per day; a single dose must not exceed 800 mg (2 tablets). Keep at least 4–6 hours between doses. Swallow whole with plenty of water, not on an empty stomach. Warnings: Do not use in the third trimester of pregnancy or in children under 15. Do not drink alcohol. Do not use higher doses or long-term without consulting a doctor. Read the patient information leaflet before use.</description>
+      <link>https://team-epace.myshopify.com/products/ibuprofen-400-stada-400-mg-film-coated-tablets-20-tablets</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/47408-1.webp?v=1790195127</g:image_link>
+      <g:price>3.11 EUR</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>STADA</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>Pharmacy &gt; Pain &amp; Fever</g:product_type>
+      <epace:shopify_product_id>16199824638277</epace:shopify_product_id>
+      <epace:category>pain-fever</epace:category>
+      <epace:product_kind>OTC medicine</epace:product_kind>
+      <epace:units_per_pack>20</epace:units_per_pack>
+      <epace:form>film-coated tablet</epace:form>
+      <epace:pil_url>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/PIL-47408-ibuprofen-400-stada-400-mg-film-coated-t.pdf?v=1790195091</epace:pil_url>
+      <epace:stock>999</epace:stock>
+      <epace:tags>Fever,Headache,Inflammation,Joint pain,Pain</epace:tags>
+    </item>
+    <item>
+      <g:id>47509</g:id>
+      <title>Ibuprofen 400 STADA 400 mg film-coated tablets, 50 tablets</title>
+      <description>Ibuprofen 400 STADA contains ibuprofen 400 mg , a non-steroidal anti-inflammatory drug (NSAID) used to relieve pain and inflammation, for example in acute and chronic arthritis, gout attacks, or painful swelling after injuries. Active substance: ibuprofen 400 mg Form: film-coated tablet Pack size: 50 tablets How to use: Adults and adolescents from 15 years: 1200-2400 mg (3-6 tablets) daily; a single dose must not exceed 800 mg (2 tablets). Keep at least 4-6 hours between doses. Swallow whole with plenty of water, not on an empty stomach. Warnings: Do not use in the third trimester of pregnancy or in children under 15. Do not drink alcohol during treatment. Do not use higher doses or for longer than recommended without consulting a doctor. Read the patient information leaflet before use.</description>
+      <link>https://team-epace.myshopify.com/products/ibuprofen-400-stada-400-mg-film-coated-tablets-50-tablets</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/47509-1.webp?v=1790196290</g:image_link>
+      <g:price>5.60 EUR</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>STADA</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>Pharmacy &gt; Pain &amp; Fever</g:product_type>
+      <epace:shopify_product_id>16199839908165</epace:shopify_product_id>
+      <epace:category>pain-fever</epace:category>
+      <epace:product_kind>OTC medicine</epace:product_kind>
+      <epace:units_per_pack>50</epace:units_per_pack>
+      <epace:form>film-coated tablet</epace:form>
+      <epace:pil_url>https://cdn.shopify.com/s/files/1/1099/3994/9893/files/PIL-47509-ibuprofen-400-stada-400-mg-film-coated-t.pdf?v=1790198983</epace:pil_url>
+      <epace:stock>399</epace:stock>
+      <epace:tags>Arthritis,Fever,Inflammation,Joint pain,Pain</epace:tags>
+    </item>
+  </channel>
+</rss>
